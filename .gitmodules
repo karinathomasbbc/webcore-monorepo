@@ -1,0 +1,9 @@
+[submodule "fabl"]
+	path = fabl
+	url = https://github.com/karinathomasbbc/fabl
+[submodule "web"]
+	path = web
+	url = https://github.com/karinathomasbbc/web
+[submodule "belfrage"]
+	path = belfrage
+	url = https://github.com/karinathomasbbc/belfrage
