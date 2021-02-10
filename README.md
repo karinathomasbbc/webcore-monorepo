@@ -1,10 +1,10 @@
 # Welcome to WebCore
 
 # Web
-[Web Docs](./web/tree/main/README.md)
+[Web Docs](https://github.com/karinathomasbbc/web/tree/main)
 
 # Fabl
-[Fabl Docs](./fabl/tree/main/README.md)
+[Fabl Docs](https://github.com/karinathomasbbc/fabl/tree/main)
 
 # Belfrage
-[Befrage Docs](./belfrage/tree/main/README.md)
+[Befrage Docs](https://github.com/karinathomasbbc/belfrage/tree/main)
