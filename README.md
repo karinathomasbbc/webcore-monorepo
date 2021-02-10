@@ -1,3 +1,7 @@
+layout: page
+title: "Welcome to WebCore"
+permalink: /welcome/
+
 # Welcome to WebCore
 
 # Web
