@@ -3,7 +3,7 @@
 	url = https://github.com/karinathomasbbc/fabl
 [submodule "web"]
 	path = web
-	url = https://github.com/karinathomasbbc/web
+	url = https://github.com/karinathomasbbc/web-1
 [submodule "belfrage"]
 	path = belfrage
 	url = https://github.com/karinathomasbbc/belfrage
