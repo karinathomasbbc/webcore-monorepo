@@ -4,6 +4,3 @@
 [submodule "belfrage"]
 	path = belfrage
 	url = https://github.com/karinathomasbbc/belfrage
-[submodule "web-1"]
-	path = web-1
-	url = https://github.com/karinathomasbbc/web-1
